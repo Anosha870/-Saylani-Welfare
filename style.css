@@ -12,7 +12,7 @@
 }
 .im ,p{
     display: flex;
-     gap: 19px;
+     gap: 20px;
      padding-left: 10px;
      justify-content: start;
      align-items: center;
